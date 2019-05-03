@@ -14,6 +14,6 @@
 				"secretName": "AzureDBAuth"
 			}
 		},
-		"description": "This is connection to SQL AZure DB"
+		"description": "This is new sdesicription"
 	}
 }
